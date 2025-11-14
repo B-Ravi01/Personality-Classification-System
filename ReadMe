@@ -1,0 +1,45 @@
+# Personality Classification System  
+A Java/J2EE-based web application built using **JSP**, **Servlets**, **JDBC**, and **MySQL** that allows users to register, log in, upload datasets, and view personality classification results.
+
+---
+
+## 🚀 Project Overview  
+The **Personality Classification System** is a web-based platform that classifies personality types based on uploaded datasets.  
+The system enables:
+
+- User Registration & Login  
+- Uploading dataset files  
+- Processing the dataset  
+- Generating & viewing classification results  
+- Searching datasets  
+- Secure authentication using Java Servlets & Sessions  
+- Database connectivity using JDBC & MySQL
+
+This project demonstrates full-stack development using classic Java EE technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- HTML5  
+- CSS3  
+- JSP (Java Server Pages)
+
+### **Backend**
+- Java  
+- Servlets  
+- JDBC  
+- MySQL
+
+### **Server**
+- Apache Tomcat (v8+ recommended)
+
+### **Tools & IDE**
+- Eclipse / IntelliJ IDEA  
+- Git & GitHub  
+- MySQL Workbench
+
+---
+
+## 📂 Project Structure
